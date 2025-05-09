@@ -8,7 +8,7 @@ from langchain_community.chat_models import ChatOpenAI
 
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 #Upload pdf files
 st.header('My First chatbot')
 
