@@ -1,3 +1,4 @@
 Streamlit
 Pypdf2
 Langchain
+FAISS
