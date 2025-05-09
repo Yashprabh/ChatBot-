@@ -2,3 +2,4 @@ Streamlit
 Pypdf2
 Langchain
  faiss-cpu
+ langchain-community
