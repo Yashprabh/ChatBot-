@@ -8,7 +8,6 @@ from langchain_community.chat_models import ChatOpenAI
 
 
 # Load API key from .env file
-load_dotenv()
 OPENAI_API_KEY = "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"
 
 
